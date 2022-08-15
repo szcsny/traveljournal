@@ -9,6 +9,15 @@ export default [
         imageUrl: "https://www.sarti-chalkidiki.com/images/Beaches/15.jpg"
     },
     {
+        title: "Prague",
+        location: "Czech Republic",
+        googleMapsUrl: "https://goo.gl/maps/VKqJvbrp23wTeMui8",
+        startDate: "4 May, 2009",
+        endDate: "11 May, 2009",
+        description: "Prague is the capital and largest city in the Czech Republic, and the historical capital of Bohemia. On the Vltava river, Prague is home to about 1.3 million people. The city has a temperate oceanic climate, with relatively warm summers and chilly winters.",
+        imageUrl: "https://images.unsplash.com/photo-1600623471616-8c1966c91ff6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
         title: "Chiavenna",
         location: "Italy",
         googleMapsUrl: "https://goo.gl/maps/ujLYkHRFc7hyhW3Q8",
